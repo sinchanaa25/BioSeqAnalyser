@@ -1,10 +1,17 @@
 # BioSeq Analyzer
 
-A Bioinformatics Web Application built using Streamlit and Biopython.
+A Streamlit-based Bioinformatics Web Application.
 
-## Features
+Features:
 
-- DNA Sequence Analysis
-- GC Content Calculation
-- Reverse Complement Generation
-- Nucleotide Statistics
+- GC Content Analysis
+- Reverse Complement
+- Sequence Length
+- Nucleotide Frequency
+- Graphical Visualization
+
+Technologies:
+
+- Python
+- Streamlit
+- Biopython
